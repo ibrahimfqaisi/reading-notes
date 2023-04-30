@@ -28,6 +28,6 @@ This course is designed for experienced software developers who want to deepen t
 - [Introduction to SQL](Introduction_to_SQL.md).
 - [Practice in the Terminal](/Practice_in_the_Terminal.md).
 - [The Growth Mindset](/The_Growth_Mindset.md).
-- [Data Structures and Algorithms](/Data%20Structures.md).
+- [Data Structures and Algorithms](/Data_Structures.md).
 
 Data Structures and Algorithms
