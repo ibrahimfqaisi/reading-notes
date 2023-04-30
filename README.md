@@ -29,5 +29,6 @@ This course is designed for experienced software developers who want to deepen t
 - [Practice in the Terminal](/Practice_in_the_Terminal.md).
 - [The Growth Mindset](/The_Growth_Mindset.md).
 - [Data Structures and Algorithms](/Data_Structures.md).
+- [Engineering Readings](/Engineering_Readings.md).
 
 Data Structures and Algorithms
