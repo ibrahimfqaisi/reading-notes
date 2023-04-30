@@ -1,7 +1,12 @@
 # Reading Notes
 
 Welcome to my **Reading Notes website!** Here, you will find my notes on various courses related to `*software development*`. The purpose of this website is to keep track of my progress and to serve as a reference for myself and others who are interested in these courses.
-
+##  intro 
+- [Introduction to SQL](Introduction_to_SQL.md).
+- [Practice in the Terminal](/Practice_in_the_Terminal.md).
+- [The Growth Mindset](/The_Growth_Mindset.md).
+- [Data Structures and Algorithms](/Data_Structures.md).
+- [Engineering Readings](/Engineering_Readings.md).
 ## Code 102 - Intro to Software Development
 
 This course introduces the fundamentals of software development, including
@@ -23,12 +28,6 @@ In this course, students will learn intermediate-level web development skills, i
 - advanced front-end development.
 
 ## Code 401 - Advanced Software Development
+- [Readings](/Readings.md).
 
-This course is designed for experienced software developers who want to deepen their understanding of software development principles and practices. Topics covered include software design patterns, testing methodologies, and advanced programming concepts.
-- [Introduction to SQL](Introduction_to_SQL.md).
-- [Practice in the Terminal](/Practice_in_the_Terminal.md).
-- [The Growth Mindset](/The_Growth_Mindset.md).
-- [Data Structures and Algorithms](/Data_Structures.md).
-- [Engineering Readings](/Engineering_Readings.md).
 
-Data Structures and Algorithms
