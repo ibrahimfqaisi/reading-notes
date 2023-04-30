@@ -25,6 +25,6 @@ In this course, students will learn intermediate-level web development skills, i
 ## Code 401 - Advanced Software Development
 
 This course is designed for experienced software developers who want to deepen their understanding of software development principles and practices. Topics covered include software design patterns, testing methodologies, and advanced programming concepts.
- # [Introduction to SQL](Introduction_to_SQL.md).
- # [Practice in the Terminal](/Practice_in_the_Terminal.md).
+- [Introduction to SQL](Introduction_to_SQL.md).
+- [Practice in the Terminal](/Practice_in_the_Terminal.md).
 
