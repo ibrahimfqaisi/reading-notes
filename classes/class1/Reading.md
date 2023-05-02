@@ -1,5 +1,6 @@
 # Reading
-### In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles?
+
+#### In the context of the reading “Pain and Suffering,” describe the main challenges faced by beginners when learning Python and suggest at least two strategies for overcoming these obstacles?
 
 
 The main challenges for beginners learning Python include understanding new concepts, applying them, collaborating with others, and dealing with uncertainty. To overcome these obstacles, beginners should seek help from mentors, instructors, online forums, and build a community with other learners. They should also practice regularly, implement what they learn, and work on projects to gain hands-on experience and build confidence.

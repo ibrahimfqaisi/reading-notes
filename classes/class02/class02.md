@@ -2,5 +2,4 @@
 
 | Class 02 |
 | ------- |
-| [Readings.](/classes/class2/Reading.md) |
-
+| [Readings.](/classes/class02/Reading.md)|
