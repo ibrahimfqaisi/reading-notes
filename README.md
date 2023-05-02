@@ -32,5 +32,6 @@ In this course, students will learn intermediate-level web development skills, i
 
 class name | 
 ---|
-[class 1](/classes/class1/class1.md)|
+[class 01](/classes/class1/class1.md)|
+[class 02](/classes/class02/class02.md)|
 
