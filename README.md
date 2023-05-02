@@ -28,6 +28,9 @@ In this course, students will learn intermediate-level web development skills, i
 - advanced front-end development.
 
 ## Code 401 - Advanced Software Development
-- [Readings](/Readings.md).
 
+
+class name | 
+---|
+[class 1](/classes/class1/class1.md)|
 
