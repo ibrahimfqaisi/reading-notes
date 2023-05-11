@@ -1,5 +1,6 @@
 # Learning Journal
 
-1. I learned how to read and write files in Python.
-2. I learned how to use JupyterLab.
-3. I learned how to handle exceptions in Python.
+1. I learned about classes in Python.
+2. I learned how to use the classmethod decorator.
+3. I gained knowledge about the method resolution order (MRO) mechanism.
+4. I also learned how to create fixtures for testing.
