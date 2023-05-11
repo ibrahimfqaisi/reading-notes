@@ -1,0 +1,3 @@
+# reading
+
+The article discusses linked lists and their reputation for being a complicated data structure. The author explains that it's not actually linked lists that are confusing, but rather the logic that goes into deciding when and whether to use them that can be challenging. The article then introduces the concept of Big O Notation, which is a way of evaluating the performance of an algorithm. The author provides basic Big O equations and explains how they relate to linked lists. Finally, the article describes how linked lists work and how to add or remove elements from them.
