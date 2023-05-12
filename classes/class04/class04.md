@@ -4,5 +4,5 @@
 | ------- |
 | [Readings](./Reading.md)|
 | [Learning Journal](./LearningJournal.md) |
-<!-- | [Code Challenge: Class 02](https://github.com/Leenaalzaben/data-structures-and-algorithm/blob/main/array-binary-search/array-binary-search.md)|
-| [lab class 3](https://github.com/ibrahimfqaisi/madlib-cli/blob/main/README.md)| -->
+| [Code Challenge: Class 04](https://docs.google.com/spreadsheets/d/1PI_Sx4XQS_4Ci-lhqFXfpYw-1HKwj7rf_MQiuilDnkw/edit?usp=sharing)|
+| [lab class 4](https://github.com/ibrahimfqaisi/pythonic-garage-band/blob/main/README.md)|
