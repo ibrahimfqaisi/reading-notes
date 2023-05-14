@@ -1,4 +1,4 @@
-# class 05
+# class 06
 
 | Class 06 |
 | ------- |
