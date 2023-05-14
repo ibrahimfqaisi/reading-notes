@@ -30,9 +30,9 @@ User
 
 Coverage analysis is useful for identifying untested portions of your code. It's recommended to periodically run coverage tools to examine these areas.
 
-### how to calculate Big O notation for an algorithm:
+## how to calculate Big O notation for an algorithm:
 
-Identify the operation that takes the most time in the algorithm.
-Determine how many times that operation will be executed in the worst-case scenario.
-Express the number of operations in terms of the input size, n.
-Simplify the expression by removing any constants or lower-order terms.
+- Identify the operation that takes the most time in the algorithm.
+- Determine how many times that operation will be executed in the worst-case scenario.
+- Express the number of operations in terms of the input size, n.
+-  Simplify the expression by removing any constants or lower-order terms.
