@@ -1,5 +1,4 @@
 # Learning Journal
 
-1. I learned how to read and write files in Python.
-2. I learned how to use JupyterLab.
-3. I learned how to handle exceptions in Python.
+1. I have learned how the game "10000" works .   
+2.  how to effectively deal with ChatGPT.

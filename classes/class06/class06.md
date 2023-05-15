@@ -3,6 +3,6 @@
 | Class 06 |
 | ------- |
 | [Readings](./Reading.md)|
-<!-- | [Code Challenge: Class 05](https://github.com/Leenaalzaben/data-structures-and-algorithm/blob/main/array-binary-search/array-binary-search.md)|
-| [lab class 5](https://github.com/ibrahimfqaisi/madlib-cli/blob/main/README.md)|
-| [Learning Journal](./LearningJournal.md) | -->
+| [Code Challenge: Class 06](https://github.com/ibrahimfqaisi/data-structures-and-algorithms/blob/main/linked-list/README.md)|
+| [lab class 6](https://github.com/ibrahimfqaisi/ten-thousand/blob/main/README.md)|
+| [Learning Journal](./LearningJournal.md) |
