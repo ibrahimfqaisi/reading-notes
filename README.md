@@ -38,4 +38,4 @@ class name |
 [class 04](/classes/class04/class04.md)|
 [class 05](/classes/class05/class05.md)|
 [class 06](/classes/class06/class06.md)|
-[class 07](/classes/class07/Reading.md)|
+[class 07](/classes/class07/class07.md)|
