@@ -1,35 +1,44 @@
-## List Comprehension
+## Q1: What is the basic syntax of Python list comprehension, and how does it differ from using a for loop to create a list? Provide an example of a list comprehension that squares the elements in a given list of integers.
 
-**What is a list comprehension?**  
-A list comprehension is a concise way to create a list in Python. It is an alternative to using a for loop.
-
-**Syntax**  
-The syntax for a list comprehension is as follows:
-
-```python
-[expression for item in iterable]
+ The basic syntax of Python list comprehension is as follows:
+``` 
+new_list = [expression for item in iterable]
 ```
-The expression is evaluated for each item in the iterable, and the results are stored in the list.
+ List comprehension allows you to create a new list by applying an expression to each item in the iterable.
 
-### Example
-The following example creates a list of squares of numbers from 1 to 10:
-```python
-squares = [x ** 2 for x in range(1, 11)]
+ It differs from using a for loop to create a list by providing a more concise and readable way to generate lists in a single line of code.
+
+ Here's an example of a list comprehension that squares the elements in a given list of integers:
+```
+numbers = [1, 2, 3, 4, 5]
+squared_numbers = [x**2 for x in numbers]
 ```
 
-This is equivalent to the following for loop:
+## Q2: What is a decorator in Python?
 
-```python
-squares = [x ** 2 for x in range(1, 11)]
+In Python, a decorator is a way to modify the behavior of a function without changing its source code.
+
+Decorators allow you to wrap a function with another function, adding functionality before and/or after the wrapped function executes.
+
+
+## Q3: Explain the concept of decorators in Python. How do they work, and what are some common use cases for them? Provide an example of a simple decorator function from the reading.
+
+Decorators in Python are a way to enhance the functionality of functions without modifying their code directly.
+
+They work by using the @decorator syntax, where the decorator replaces the original function with the decorated version.
+
+Some common use cases for decorators include logging, authentication, performance monitoring, and adding additional functionality to functions.
 ```
+def uppercase_decorator(func):
+    def wrapper():
+        original_result = func()
+        modified_result = original_result.upper()
+        return modified_result
+    return wrapper
 
-### Advantages
-List comprehensions have several advantages over for loops:
+@uppercase_decorator
+def say_hello():
+    return "hello"
 
-- They are more concise and easier to read.
-- They can be used to create more complex lists.
-- They can be used to filter lists.
-
-### Disadvantages
-
-List comprehensions can be more difficult to debug than for loops.
+print(say_hello())
+```
