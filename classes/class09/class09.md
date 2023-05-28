@@ -3,6 +3,6 @@
 | Class 09 |
 | ------- |
 | [Readings](./Reading.md)|
-<!-- | [Code Challenge: Class 09](https://github.com/ibrahimfqaisi/data-structures-and-algorithms/blob/main/linked-list/README.md)|
+| [Code Challenge: Class 09](https://docs.google.com/spreadsheets/d/18l_5Nw3_4Yvoys0QyE_3uOTsqrC6IlAInHK1ZAeXNkg/edit)|
 | [lab class 9](https://github.com/ibrahimfqaisi/ten-thousand/blob/main/README.md)|
-| [Learning Journal](./LearningJournal.md) | -->
+| [Learning Journal](./LearningJournal.md) |
