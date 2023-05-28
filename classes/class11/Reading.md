@@ -1,6 +1,6 @@
 **Q1: What are the key features and benefits of Jupyter Lab, and how does it differ from Jupyter Notebook?**
 
-Answer: 
+
 - Jupyter Lab is a web-based interactive development environment (IDE) that is built on top of the Jupyter Notebook.
 - It offers a number of improvements and new features, such as a more modern user interface, support for multiple panels, and the ability to extend it with extensions.
 - Some key features and benefits of Jupyter Lab include:
