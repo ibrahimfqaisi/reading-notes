@@ -1,0 +1,11 @@
+## Q: Explain the purpose and basic structure of Django models. How do they help in creating and managing the database schema in a Django application?
+
+A: Django models define the structure and behavior of data in a Django application. They represent database tables using Python classes that inherit from models.Model. Models simplify the creation and management of the database schema by allowing developers to define tables using Python code instead of writing SQL statements. They also provide an interface for performing CRUD operations on the database and support database migrations for updating the schema while preserving data integrity.
+
+## Q: Describe the primary features and functionality of the Django Admin interface. How can it be customized for a specific project?
+
+A: The Django Admin interface generates an administrative interface for managing project data. It offers features such as automatic CRUD operations, search and filtering, sorting and pagination, user authentication, and permissions. The Admin interface can be customized by creating an admin.py file and registering models with admin.site.register(). Developers can also subclass Django's ModelAdmin class to modify behavior and meet specific project requirements, including branding, design, and workflow needs.
+
+## Q: Briefly outline the key components and workflow of a Django application. How do they interact?
+
+A: A Django application consists of models, views, templates, URLs, and a database. Models define data structure, views handle request processing and logic, templates handle presentation, URLs define routing, and the database stores and retrieves data. The workflow starts with a user request, which is routed to a specific view by URLs. The view interacts with models or external data sources, prepares data for rendering, and passes it to the template. The template combines data with HTML structure to generate a response, which is sent back to the user's browser. The components work together, with models providing data structure, views handling logic, templates managing presentation, URLs directing requests, and the database storing and retrieving data, to create a functional Django application.
