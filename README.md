@@ -53,6 +53,6 @@ class name |
 [class 27](/classes/class27/class27.md)|
 [class 28](/classes/class28/class28.md)|
 [class 29](/classes/class29/class29.md)|
-[class 31](/classes/class31/class29.md)|
+[class 31](/classes/class31/class31.md)|
 
 
