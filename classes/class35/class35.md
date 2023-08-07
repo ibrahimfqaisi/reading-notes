@@ -34,5 +34,7 @@ In the "Engineering Interview Process Deconstructed" video, Gayle McDowell highl
 
 
 ## Things I want to know more about:
-every thing is clear
+Everything is clear.
+
+
 
