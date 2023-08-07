@@ -30,5 +30,9 @@ In the "Engineering Interview Process Deconstructed" video, Gayle McDowell highl
 
 3. **Be prepared to answer experience-related questions:** Anticipate questions about your skills and experience to provide well-thought-out responses.
 
-4. **Confidence matters:** Believe in your abilities, be willing to ask questions when stuck, and maintain confidence during the interview.
+4. **Confidence matters:** Believe in your abilities, be willing to ask questions when stuck, and maintain confidence during the interview
+
+
+## Things I want to know more about:
+every thing is clear
 
